@@ -27,8 +27,8 @@ El bot utiliza el algoritmo **Jaro-Winkler** para medir la similitud entre el me
 ## 🚀 Instalación y Ejecución
 1. Clonar el repositorio
 ```
-git clone https://github.com/tuusuario/bot-academico-usb.git
-cd bot-academico-usb
+git clone https://github.com/tuusuario/chatBotUsbCali.git
+cd chatBotUsbCali
 ```
 2. Instalar las dependencias
 ```
